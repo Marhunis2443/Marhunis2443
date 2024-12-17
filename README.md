@@ -1,22 +1,10 @@
-- 👋 Hi, I’m @Marhunis2443
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Marhunis2443/Marhunis2443 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-html
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cheer Up!</title>
+    <title>Semangat!</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -46,14 +34,13 @@ html
     </style>
 </head>
 <body>
-    <h1>Hey, Beautiful!</h1>
-    <p>Jangan sedih lagi ya. Kamu itu luar biasa dan sangat berarti. 😊</p>
+    <h1>Hey, Kamu!</h1>
+    <p>Jangan biarkan suasana hati yang buruk mengambil alih. Kamu itu luar biasa dan sangat berarti. 😊</p>
     <p class="heart">❤️</p>
     <p>Semangat terus dan jangan lupa senyum! 😄</p>
-    <button onclick="alert('You are amazing! Keep smiling! 😊')">Click Me</button>
+    <button onclick="alert('Kamu hebat! Tetap tersenyum! 😊')">Klik Aku</button>
 </body>
 </html>
 ```
-
 
          
